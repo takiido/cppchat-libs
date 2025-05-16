@@ -1,5 +1,1 @@
-## 🛠 Setup
-
-```bash
-cd external/libclang
-./setup-libclang.sh
+cppchat-libs is a lightweight support repo for cppchat, containing external tooling resources like a minimal libclang runtime setup used for building a custom C++ migration/reflection tool. It includes only headers and compressed runtime files to keep the main project clean and portable.
